@@ -1,17 +1,7 @@
-![Logo Dark](https://davinci.edu.ar/images/logo-davinci-black-github.svg#gh-dark-mode-only)
-![Logo Light](https://davinci.edu.ar/images/logo-davinci-white-github.svg#gh-light-mode-only)
+![Logo Dark]([https://davinci.edu.ar/images/logo-davinci-black-github.svg](https://raw.githubusercontent.com/EscuelaDaVinci/.github/b6611d4027529ddc86c9846a0ae948ac1eb032da/profile/logo-davinci-black-github.svg)#gh-dark-mode-only)
 
-<div align="center">
+![Logo Light]([https://davinci.edu.ar/images/logo-davinci-white-github.svg](https://raw.githubusercontent.com/EscuelaDaVinci/.github/b6611d4027529ddc86c9846a0ae948ac1eb032da/profile/logo-davinci-white-github.svg)#gh-light-mode-only)
 
-  ![Logo Dark](https://user-images.githubusercontent.com/8872447/165779319-34962ccc-3149-466c-b1da-97fd93254520.png#gh-dark-mode-only)
-
-</div>
-
-<div align="center">
-
-  ![Logo Light](https://user-images.githubusercontent.com/8872447/165779274-22a190da-3284-487e-bd1e-14983df12cbb.png#gh-light-mode-only)
-
-</div>
 
 
 ## Da Vinci: Escuela de Multimedia, Arte Digital y Tecnología
