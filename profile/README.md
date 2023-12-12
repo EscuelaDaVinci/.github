@@ -1,4 +1,4 @@
-![Logo Dark](https://raw.githubusercontent.com/EscuelaDaVinci/.github/b6611d4027529ddc86c9846a0ae948ac1eb032da/profile/logo-davinci-white-github.svg#gh-dark-mode-only){width=60%}
+![Logo Dark](https://raw.githubusercontent.com/EscuelaDaVinci/.github/b6611d4027529ddc86c9846a0ae948ac1eb032da/profile/logo-davinci-white-github.svg#gh-dark-mode-only)
 
 ![Logo Light](https://raw.githubusercontent.com/EscuelaDaVinci/.github/b6611d4027529ddc86c9846a0ae948ac1eb032da/profile/logo-davinci-black-github.svg#gh-light-mode-only)
 
