@@ -1,4 +1,6 @@
-![Da Vinci](https://davinci.edu.ar/images/logo-davinci-negro.svg "Da Vinci")
+![Logo Dark](https://davinci.edu.ar/images/logo-davinci-black-github.svg#gh-dark-mode-only)
+![Logo Light](https://davinci.edu.ar/images/logo-davinci-white-github.svg#gh-light-mode-only)
+
 
 ## Da Vinci: Escuela de Multimedia, Arte Digital y Tecnología
 
